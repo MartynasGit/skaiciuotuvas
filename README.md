@@ -8,7 +8,7 @@ A simple tool to calculate two numbers.
 
 Use node Node.js®
 
-git clone https://github.com/MartynasGit/kalkuliatorius.git
+git clone https://github.com/MartynasGit/skaiciuotuvas
 
 npm instal
 
