@@ -2,7 +2,7 @@
 
 A simple tool to calculate two numbers. 
 
-4 available operatios.
+4 available operatios: add, minus, multiply, divide.
 
 # How to use
 
